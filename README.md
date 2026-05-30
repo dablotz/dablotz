@@ -3,7 +3,7 @@
 Boston-based engineer working at the intersection of AI-assisted
 development, DevOps, and infrastructure design. Twelve years across
 SDET, manual QA, and help desk roles, currently transitioning into
-DevOps, CloudOps, MLOps, and AI Ops.
+a more operational focused space.
 
 ## Current focus
 
