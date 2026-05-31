@@ -21,7 +21,7 @@ HLD published here.
 
 Selected projects pinned below. Most are AWS-adjacent — IaC tooling,
 multi-agent systems, infrastructure cost controls. A few are
-explorations in Go and Rust for personal tooling.
+explorations for personal tooling.
 
 ## Reaching me
 
