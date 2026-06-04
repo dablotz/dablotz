@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="MlXHUJgUgc3aJk2oQ92mz0HM28Mss3AZ8XRuGLNB4aI" />
+
 # Greg Blotzer
 
 Boston-based engineer building AI-powered systems and writing about the security implications of AI in the development loop. AWS Certified AI Practitioner.
